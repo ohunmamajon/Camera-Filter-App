@@ -1,5 +1,5 @@
 # A basic Camera & Filter app
-# Camer App Project using SwiftUI
+ using SwiftUI
 # Demonstrated:
 # AV Foundation
 # ImagePicker
