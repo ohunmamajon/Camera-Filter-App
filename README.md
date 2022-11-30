@@ -1,5 +1,5 @@
 # A basic Camera & Filter app made in SwiftUI
-# Demonstrated:
+ Demonstrated:
 # AV Foundation
 # ImagePicker
 # Custom Camera View
